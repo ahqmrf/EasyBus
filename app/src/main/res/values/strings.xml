@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Auto_Bus</string>
+    <string name="label_checker_name">Checker name</string>
+    <string name="label_password">Password</string>
+    <string name="label_send_data">Send data</string>
+    <string name="label_complain_box">Complain box</string>
+</resources>
